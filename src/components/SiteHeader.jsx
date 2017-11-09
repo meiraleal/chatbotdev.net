@@ -4,7 +4,7 @@ import Link from 'gatsby-link';
 
 import Icon from './Icon';
 import MobileMenu from './MobileMenu';
-import logo from '../images/doopoll_logo.svg';
+import logo from '../images/logo.png';
 
 class SiteHeader extends Component {
   constructor() {

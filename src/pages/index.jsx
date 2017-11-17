@@ -20,7 +20,6 @@ export default () => (
       image={o2Portrait}
     />
     <ProductFeatures />
-    <ProductLanguages />
     <SignUp />
   </div>
 );

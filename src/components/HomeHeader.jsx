@@ -20,9 +20,6 @@ class HomeHeader extends Component {
             </div>
           </div>
         </div>
-        <div className="HomeHeader__illustration">
-          <img src={brandSymbols} alt="" className="u-slow-spin" />
-        </div>
       </div>
     );
   }
